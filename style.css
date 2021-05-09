@@ -1,0 +1,20 @@
+body{
+background-image: linear-gradient(#ADFF2F, #32CD32);
+overflow: hidden;
+}
+
+img{
+height: 852px;
+width: 1098px;
+filter: grayscale(150%);
+}
+
+h1{
+color: blue;
+font-family: courier new;
+}
+
+div{
+width: 100%;
+text-align: center;
+}
